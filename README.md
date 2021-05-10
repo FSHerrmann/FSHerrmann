@@ -26,4 +26,7 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="https://github.com/rafaballerini/rafaballerini/blob/main/README.md">File Refference</a> 
+<!--https://giphy.com/gifs/realfoodrn-working-fast-typing-baby-SAIGPdSohpC7JdRcHT, Gif-->
+<!--https://github.com/rafaballerini/rafaballerini/blob/main/README.md, Refference-->
+
+
