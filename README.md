@@ -11,9 +11,8 @@
 	
 <div style="display: inline_block"><br>
   <img align="center" alt="Error" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.svg">
-  <img align="center" alt="Error" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.svg">
   <img align="center" alt="Error" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.svg">
-  <img align="center" alt="Error" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.svg">
+  <img align="center" alt="Error" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.svg">
   <img height="130em" align="center" alt="?" src="https://github.com/FSHerrmann/FSHerrmann/blob/main/Me%20and%20Myself.gif" ">
 </div>
   
