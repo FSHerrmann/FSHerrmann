@@ -1,0 +1,41 @@
+#include <Servo.h>
+Servo Servo1, Servo2, Servo3;
+
+int pos = 0;
+int i = 1;
+int VRx = A0;
+int VRy = A1;
+int SW = 2;
+
+int xPosition = 0;
+int yPosition = 0;
+int SW_state = 0;
+int mapX = 0;
+int mapY = 0;
+
+void setup(){
+  pinMode(VRx, INPUT);
+  pinMode(VRy, INPUT);
+  pinMode(SW, INPUT_PULLUP); 
+  Servo1.attach(3);
+  Servo2.attach(5);
+  Servo3.attach(6);
+  Servo1.write(pos);
+  Servo2.write(pos);
+  Servo3.write(pos);
+}
+
+void loop(){
+  
+  xPosition = analogRead(VRx);
+  yPosition = analogRead(VRy);
+  SW_state = digitalRead(SW);
+  mapX = map(xPosition, 0, 1023, 0, 180);
+  mapY = map(yPosition, 25, 1023, 0, 180);
+  Servo1.write(mapX);
+  Servo2.write(mapX);
+  Servo3.write(mapY);
+  
+
+  delay(200); 
+}
