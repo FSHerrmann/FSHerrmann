@@ -3,8 +3,8 @@
 ## Welcome! Please excuse the clutter
  <div>
   <a href="https://github.com/FSHerrmann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FSHerrmann&show_icons=true&%title_color=009c3b&%text_color=002776&icon_color=ffdf00"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FSHerrmann&layout=compact&langs_count=3&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FSHerrmann&show_icons=true&%title_color=009c3b&%text_color=002776&icon_color=ffdf00"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FSHerrmann&layout=compact&langs_count=3&theme=dracula"/>
 
 
 
