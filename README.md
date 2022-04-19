@@ -16,7 +16,7 @@
   <img height="130em" align="center" alt="?" src="https://github.com/FSHerrmann/FSHerrmann/blob/main/Me%20and%20Myself.gif" ">
 </div>
   
-  ##
+
   
   <div>
   <a href = "mailto: mime.schneider@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
