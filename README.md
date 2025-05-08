@@ -15,6 +15,7 @@
     <img alt="Python Logo" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.svg">
     <img alt="HTML Logo" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.svg">
     <img alt="CSS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.svg">
+    <img alt="JS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.svg">
   </div>
 
   <br>
