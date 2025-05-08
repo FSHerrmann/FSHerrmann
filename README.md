@@ -7,7 +7,6 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FSHerrmann&layout=compact&langs_count=3&theme=dracula"/>
 
 
-
 	
 <div style="display: inline_block"><br>
   <img align="center" alt="Error" height="30" width="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.svg">
@@ -20,8 +19,7 @@
   
   <div>
   <a href = "mailto: mime.schneider@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipesherrmann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/felipe.sh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/felipe-schneider-864602123" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!--https://giphy.com/gifs/realfoodrn-working-fast-typing-baby-SAIGPdSohpC7JdRcHT, Gif-->
