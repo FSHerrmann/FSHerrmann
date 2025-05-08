@@ -29,7 +29,6 @@
     </a>
   </div>
 
-  <br>
 
   <div>
     <h3>Currently studying Web Development!</h3>
