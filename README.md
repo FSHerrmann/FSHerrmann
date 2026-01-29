@@ -5,7 +5,6 @@
   <h1>👋 Welcome! Please excuse the clutter...</h1>
 
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FSHerrmann&show_icons=true&title_color=009c3b&text_color=002776&icon_color=ffdf00" alt="GitHub Stats"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FSHerrmann&layout=compact&langs_count=10&theme=dracula" alt="Top Languages"/>
   </div>
 
