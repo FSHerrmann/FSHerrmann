@@ -31,7 +31,7 @@
 
 
   <div>
-    <h3>Currently studying Web Development!</h3>
+    <h3>Currently studying AI!</h3>
     <img height="130em" alt="Web Development GIF" src="https://raw.githubusercontent.com/FSHerrmann/FSHerrmann/main/Me%20and%20Myself.gif">
   </div>
 </div>
