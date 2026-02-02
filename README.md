@@ -4,10 +4,6 @@
 <div align="center">
   <h1>👋 Welcome! Please excuse the clutter...</h1>
 
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FSHerrmann&layout=compact&langs_count=10&theme=dracula" alt="Top Languages"/>
-  </div>
-
   <br>
 
   <div>
